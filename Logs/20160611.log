@@ -1,0 +1,10 @@
+0	09:51:52.047	Compiling 'LCS-MACD-Trader'
+0	09:51:53.250	Compiling 'SineWaveIndv0.1'
+0	09:52:20.716	Custom indicator SineWaveIndv0.1 USDCAD,M30: loaded successfully
+0	09:52:22.372	SineWaveIndv0.1 USDCAD,M30: initialized
+0	10:30:47.501	SineWaveIndv0.1 USDCAD,M30: uninit reason 3
+0	10:30:47.501	SineWaveIndv0.1 USDCAD,M15: initialized
+0	10:31:11.204	SineWaveIndv0.1 USDCAD,M15: uninit reason 3
+0	10:31:11.219	SineWaveIndv0.1 USDCAD,H1: initialized
+0	10:31:25.720	SineWaveIndv0.1 USDCAD,H1: uninit reason 3
+0	10:31:25.720	SineWaveIndv0.1 USDCAD,M30: initialized

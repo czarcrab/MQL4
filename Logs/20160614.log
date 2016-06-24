@@ -1,0 +1,30 @@
+0	16:37:57.255	Compiling 'LCS-MACD-Trader'
+0	16:37:59.442	Custom indicator SineWaveIndv0.1 USDCAD,M30: loaded successfully
+0	16:37:59.474	SineWaveIndv0.1 USDCAD,M30: initialized
+0	16:38:24.130	SineWaveIndv0.1 USDCAD,M30: uninit reason 4
+0	16:38:24.146	Custom indicator SineWaveIndv0.1 USDCAD,M30: removed
+0	16:38:30.038	Custom indicator SineWaveIndv0.1 USDCAD,M30: loaded successfully
+0	16:38:30.053	SineWaveIndv0.1 USDCAD,M30: initialized
+0	16:54:05.849	SineWaveIndv0.1 USDCAD,M30: uninit reason 9
+0	16:54:05.865	Custom indicator SineWaveIndv0.1 USDCAD,M30: removed
+0	16:54:11.444	Compiling 'keltner-channel'
+0	16:54:13.225	Custom indicator SineWaveIndv0.1 USDCAD,M30: loaded successfully
+0	16:54:13.240	SineWaveIndv0.1 USDCAD,M30: initialized
+0	16:54:33.912	Custom indicator keltner-channel USDCAD,M30: loaded successfully
+0	16:54:37.300	keltner-channel USDCAD,M30: initialized
+0	16:57:00.529	keltner-channel USDCAD,M30: uninit reason 2
+0	16:57:00.529	Custom indicator keltner-channel USDCAD,M30: removed
+0	16:57:00.529	Custom indicator keltner-channel USDCAD,M30: loaded successfully
+0	16:57:00.545	keltner-channel USDCAD,M30: initialized
+0	21:45:28.771	keltner-channel USDCAD,M30: uninit reason 2
+0	21:45:28.787	Custom indicator keltner-channel USDCAD,M30: removed
+0	21:45:28.787	Custom indicator keltner-channel USDCAD,M30: loaded successfully
+0	21:45:28.803	keltner-channel USDCAD,M30: initialized
+0	21:46:55.850	keltner-channel USDCAD,M30: uninit reason 2
+0	21:46:55.850	Custom indicator keltner-channel USDCAD,M30: removed
+0	21:46:55.850	Custom indicator keltner-channel USDCAD,M30: loaded successfully
+0	21:46:55.850	keltner-channel USDCAD,M30: initialized
+0	21:47:19.332	keltner-channel USDCAD,M30: uninit reason 2
+0	21:47:19.332	Custom indicator keltner-channel USDCAD,M30: removed
+0	21:47:19.332	Custom indicator keltner-channel USDCAD,M30: loaded successfully
+0	21:47:19.347	keltner-channel USDCAD,M30: initialized

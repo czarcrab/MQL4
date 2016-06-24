@@ -1,0 +1,89 @@
+0	10:11:55.795	Custom indicator keltner-channel USDCAD,M30: loaded successfully
+0	10:11:55.801	Custom indicator SineWaveIndv0.1 USDCAD,M30: loaded successfully
+0	10:11:55.825	keltner-channel USDCAD,M30: initialized
+0	10:11:55.832	SineWaveIndv0.1 USDCAD,M30: initialized
+0	10:16:25.493	keltner-channel USDCAD,M30: uninit reason 3
+0	10:16:25.493	SineWaveIndv0.1 USDCAD,M30: uninit reason 3
+0	10:16:25.524	keltner-channel USDCAD,M5: initialized
+0	10:16:25.524	SineWaveIndv0.1 USDCAD,M5: initialized
+0	10:16:32.352	keltner-channel USDCAD,M5: uninit reason 3
+0	10:16:32.352	SineWaveIndv0.1 USDCAD,M5: uninit reason 3
+0	10:16:32.352	keltner-channel USDCAD,M30: initialized
+0	10:16:32.352	SineWaveIndv0.1 USDCAD,M30: initialized
+0	10:16:38.728	keltner-channel USDCAD,M30: uninit reason 3
+0	10:16:38.728	SineWaveIndv0.1 USDCAD,M30: uninit reason 3
+0	10:16:38.728	keltner-channel USDCAD,M5: initialized
+0	10:16:38.728	SineWaveIndv0.1 USDCAD,M5: initialized
+0	10:16:55.212	keltner-channel USDCAD,M5: uninit reason 3
+0	10:16:55.212	SineWaveIndv0.1 USDCAD,M5: uninit reason 3
+0	10:16:55.212	keltner-channel USDCAD,M30: initialized
+0	10:16:55.212	SineWaveIndv0.1 USDCAD,M30: initialized
+0	10:24:42.962	Compiling 'Tight MACD Trader'
+0	10:39:14.494	keltner-channel USDCAD,M30: uninit reason 3
+0	10:39:14.494	SineWaveIndv0.1 USDCAD,M30: uninit reason 3
+0	10:39:14.494	keltner-channel USDCAD,M5: initialized
+0	10:39:14.494	SineWaveIndv0.1 USDCAD,M5: initialized
+0	10:39:23.136	keltner-channel USDCAD,M5: uninit reason 3
+0	10:39:23.136	SineWaveIndv0.1 USDCAD,M5: uninit reason 3
+0	10:39:23.151	keltner-channel USDCAD,M1: initialized
+0	10:39:23.151	SineWaveIndv0.1 USDCAD,M1: initialized
+0	10:40:09.195	keltner-channel USDCAD,M1: uninit reason 3
+0	10:40:09.195	SineWaveIndv0.1 USDCAD,M1: uninit reason 3
+0	10:40:09.195	keltner-channel USDCAD,M5: initialized
+0	10:40:09.195	SineWaveIndv0.1 USDCAD,M5: initialized
+0	10:42:10.774	keltner-channel USDCAD,M5: uninit reason 3
+0	10:42:10.774	SineWaveIndv0.1 USDCAD,M5: uninit reason 3
+0	10:42:10.774	keltner-channel USDCAD,M1: initialized
+0	10:42:10.774	SineWaveIndv0.1 USDCAD,M1: initialized
+0	10:48:56.586	keltner-channel USDCAD,M1: uninit reason 3
+0	10:48:56.586	SineWaveIndv0.1 USDCAD,M1: uninit reason 3
+0	10:48:56.602	keltner-channel USDCAD,M15: initialized
+0	10:48:56.602	SineWaveIndv0.1 USDCAD,M15: initialized
+0	21:29:18.339	Compiling 'ZeroLag_MACD'
+0	21:37:24.308	Custom indicator ZeroLag_MACD USDCAD,M15: loaded successfully
+0	21:37:26.412	ZeroLag_MACD USDCAD,M15: initialized
+0	21:39:50.135	Compiling 'ZerolagstochsM'
+0	21:39:54.854	Custom indicator ZerolagstochsM USDCAD,M15: loaded successfully
+0	21:39:56.766	ZerolagstochsM USDCAD,M15: initialized
+0	21:40:36.750	ZerolagstochsM USDCAD,M15: uninit reason 5
+0	21:40:36.763	ZerolagstochsM USDCAD,M15: initialized
+0	21:45:25.735	Compiling 'MTF_MACD'
+0	21:45:31.821	Custom indicator MTF_MACD USDCAD,M15: loaded successfully
+0	21:45:34.090	MTF_MACD USDCAD,M15: MTF MACD.mq4, Ver.#2
+0	21:45:34.090	MTF_MACD USDCAD,M15: Copyright © 2009/05/26  MQL Service UK   http://mqlservice.co.uk/
+0	21:45:34.091	MTF_MACD USDCAD,M15: initialized
+0	21:46:14.414	MTF_MACD USDCAD,M15: uninit reason 5
+0	21:46:14.426	MTF_MACD USDCAD,M15: MTF MACD.mq4, Ver.#2
+0	21:46:14.426	MTF_MACD USDCAD,M15: Copyright © 2009/05/26  MQL Service UK   http://mqlservice.co.uk/
+0	21:46:14.426	MTF_MACD USDCAD,M15: initialized
+0	21:48:18.934	keltner-channel USDCAD,M15: uninit reason 3
+0	21:48:18.934	SineWaveIndv0.1 USDCAD,M15: uninit reason 3
+0	21:48:18.934	ZeroLag_MACD USDCAD,M15: uninit reason 3
+0	21:48:18.934	ZerolagstochsM USDCAD,M15: uninit reason 3
+0	21:48:18.935	MTF_MACD USDCAD,M15: uninit reason 3
+0	21:48:18.939	keltner-channel USDCAD,H1: initialized
+0	21:48:18.942	SineWaveIndv0.1 USDCAD,H1: initialized
+0	21:48:18.947	ZeroLag_MACD USDCAD,H1: initialized
+0	21:48:18.947	ZerolagstochsM USDCAD,H1: initialized
+0	21:48:18.947	MTF_MACD USDCAD,H1: MTF MACD.mq4, Ver.#2
+0	21:48:18.947	MTF_MACD USDCAD,H1: Copyright © 2009/05/26  MQL Service UK   http://mqlservice.co.uk/
+0	21:48:18.947	MTF_MACD USDCAD,H1: initialized
+0	21:48:50.317	ZerolagstochsM USDCAD,H1: uninit reason 5
+0	21:48:50.332	ZerolagstochsM USDCAD,H1: initialized
+0	21:50:23.493	ZerolagstochsM USDCAD,H1: uninit reason 5
+0	21:50:23.507	ZerolagstochsM USDCAD,H1: initialized
+0	22:02:34.340	Compiling 'Simple ZeroLagStoch EA'
+0	23:21:58.225	keltner-channel USDCAD,H1: uninit reason 3
+0	23:21:58.225	SineWaveIndv0.1 USDCAD,H1: uninit reason 3
+0	23:21:58.225	ZeroLag_MACD USDCAD,H1: uninit reason 3
+0	23:21:58.225	ZerolagstochsM USDCAD,H1: uninit reason 3
+0	23:21:58.226	MTF_MACD USDCAD,H1: uninit reason 3
+0	23:21:58.243	keltner-channel USDCAD,M5: initialized
+0	23:21:58.244	SineWaveIndv0.1 USDCAD,M5: initialized
+0	23:21:58.244	ZeroLag_MACD USDCAD,M5: initialized
+0	23:21:58.246	ZerolagstochsM USDCAD,M5: initialized
+0	23:21:58.246	MTF_MACD USDCAD,M5: MTF MACD.mq4, Ver.#2
+0	23:21:58.246	MTF_MACD USDCAD,M5: Copyright © 2009/05/26  MQL Service UK   http://mqlservice.co.uk/
+0	23:21:58.246	MTF_MACD USDCAD,M5: initialized
+0	23:34:53.256	ZerolagstochsM USDCAD,M5: uninit reason 5
+0	23:34:53.267	ZerolagstochsM USDCAD,M5: initialized
